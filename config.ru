@@ -1,2 +1,2 @@
-require './word'
+require './app'
 run Sinatra::Application
